@@ -13,5 +13,5 @@
 
 <h2>My stats:</h2>
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunk13&show_icons=true&theme=transparent)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunk13&show_icons=false&theme=white)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hunk13&layout=compact&theme=white)
