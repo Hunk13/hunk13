@@ -14,3 +14,4 @@
 <h2>My stats:</h2>
 
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunk13&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hunk13&layout=compact&theme=white)](https://github.com/anuraghazra/github-readme-stats)
