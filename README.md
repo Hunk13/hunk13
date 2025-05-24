@@ -8,7 +8,7 @@
 
 
 <h2>👨‍💻 About Me:</h2>
-<p>Highly skilled backend developer with more than 5 years work experience. Excellent knowledge in Ruby, SQL languages and also DevOps.</p>
+<p>Highly skilled DevOps with more than 7 years work experience. Excellent knowledge in Ruby.</p>
 
 
 <h2>My stats:</h2>
